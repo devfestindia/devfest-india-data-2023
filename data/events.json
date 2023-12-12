@@ -340,5 +340,24 @@
             "Link": "https://sessionize.com/devfest-ludhiana-2023-offline/",
             "LastDate": "2023-12-10"
         }
+    },
+    {
+    "City": "Jaipur",
+    "CommunityName": "GDG Jaipur",
+    "DevFestName": "DevFest Jaipur",
+    "Days": "1",
+    "StartingDate": "2023-12-17",
+    "EndingDate": "2023-12-17",
+    "Venue": "Jaipur",
+    "Description": "DevFest is an annual decentralised tech conference hosted by Google Developer Groups across the globe. 2023 will be the 12th year 🎉 of DevFest by GDG community. GDG Jaipur is organising DevFest 2023 in association Tensor Flow User Group Jaipur (TFUG Jaipur) and Google Cloud Jaipur. ",
+    "EventLink": "https://gdg.community.dev/events/details/google-gdg-jaipur-presents-devfest-jaipur-2023/",
+    "CommunityPage": "https://gdg.community.dev/gdg-jaipur/",
+    "Visible": "true",
+    "State": "Rajasthan",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://sessionize.com/devfest-jaipur-2023",
+      "LastDate": "2023-12-09"
+    }
     }
 ]
