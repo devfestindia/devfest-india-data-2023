@@ -342,41 +342,41 @@
         }
     },
     {
-    "City": "Jaipur",
-    "CommunityName": "GDG Jaipur",
-    "DevFestName": "DevFest Jaipur",
-    "Days": "1",
-    "StartingDate": "2023-12-17",
-    "EndingDate": "2023-12-17",
-    "Venue": "Jaipur",
-    "Description": "DevFest is an annual decentralised tech conference hosted by Google Developer Groups across the globe. 2023 will be the 12th year 🎉 of DevFest by GDG community. GDG Jaipur is organising DevFest 2023 in association Tensor Flow User Group Jaipur (TFUG Jaipur) and Google Cloud Jaipur. ",
-    "EventLink": "https://gdg.community.dev/events/details/google-gdg-jaipur-presents-devfest-jaipur-2023/",
-    "CommunityPage": "https://gdg.community.dev/gdg-jaipur/",
-    "Visible": "true",
-    "State": "Rajasthan",
-    "CFP": {
-      "Status": "1",
-      "Link": "https://sessionize.com/devfest-jaipur-2023",
-      "LastDate": "2023-12-09"
-    }
+        "City": "Jaipur",
+        "CommunityName": "GDG Jaipur",
+        "DevFestName": "DevFest Jaipur",
+        "Days": "1",
+        "StartingDate": "2023-12-17",
+        "EndingDate": "2023-12-17",
+        "Venue": "Jaipur",
+        "Description": "DevFest is an annual decentralised tech conference hosted by Google Developer Groups across the globe. 2023 will be the 12th year 🎉 of DevFest by GDG community. GDG Jaipur is organising DevFest 2023 in association Tensor Flow User Group Jaipur (TFUG Jaipur) and Google Cloud Jaipur. ",
+        "EventLink": "https://gdg.community.dev/events/details/google-gdg-jaipur-presents-devfest-jaipur-2023/",
+        "CommunityPage": "https://gdg.community.dev/gdg-jaipur/",
+        "Visible": "true",
+        "State": "Rajasthan",
+        "CFP": {
+            "Status": "1",
+            "Link": "https://sessionize.com/devfest-jaipur-2023",
+            "LastDate": "2023-12-09"
+        }
     },
     {
-        "City": “Kolkata”,
-        "CommunityName": "GDG Kolkata”,
-        "DevFestName": "DevFest Kolkata”,
+        "City": "Kolkata",
+        "CommunityName": "GDG Kolkata",
+        "DevFestName": "DevFest Kolkata",
         "Days": "1",
-        "StartingDate": "2023-12-22”,
-        "EndingDate": "2023-12-22”,
-        "Venue": “Dhono Dhanyo Auditorium, Alipore, Kolkata”,
+        "StartingDate": "2023-12-22",
+        "EndingDate": "2023-12-22",
+        "Venue": "Dhono Dhanyo Auditorium, Alipore, Kolkata",
         "Description": "DevFest is a global, decentralized tech conference hosted by the Google Developer Groups (GDG) community. Each DevFest event is crafted by its local organizers to fit their local developer community's learning needs and interests, with a strong focus on knowledge exchange and networking.",
-        "EventLink": “https://devfest.gdgkolkata.in”,
-        "CommunityPage": "https://gdg.community.dev/gdg-kolkata/“,
+        "EventLink": "https://devfest.gdgkolkata.in",
+        "CommunityPage": "https://gdg.community.dev/gdg-kolkata/",
         "Visible": "true",
-        "State": “West Bengal”,
+        "State": "West Bengal",
         "CFP": {
-            "Status": “0”,
-            "Link": "https://gdg.community.dev/gdg-kolkata/“,
-            "LastDate": "2023-12-02”
+            "Status": "0",
+            "Link": "https://gdg.community.dev/gdg-kolkata/",
+            "LastDate": "2023-12-02"
         }
     }
 ]
